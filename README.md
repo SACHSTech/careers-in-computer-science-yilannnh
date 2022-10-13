@@ -59,7 +59,7 @@
 
 **Time Required to Complete Degree**
 - 5 years
-
+---
 ### 1.3 Experiental Learning
 
 Here are various ways to gain more hands-on experience with computer science that will provide valuable knowledge that prepares you for a job in Computer Science in the future.
@@ -70,7 +70,7 @@ Here are various ways to gain more hands-on experience with computer science tha
   - Organized by Amazon.com, help develop the algorithms and models that power the services at Amazon as an intern
 - Side projects
 - Coding problems for practice
-
+---
 ### 1.4 Real Jobs
 **Entry Level Position:**
 Jr. Software Engineer - Lighthouse
@@ -104,3 +104,4 @@ We are in growth mode and need to hire curious, productive, technically proficie
 - Full-time
 - North York, ON
 - From $120,000 a year
+---
