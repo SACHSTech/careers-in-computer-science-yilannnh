@@ -64,3 +64,12 @@
 - 5 years
 
 ### 1.3 Experiental Learning
+
+Here are various ways to gain more hands-on experience with computer science that will provide valuable knowledge that prepares you for a job in Computer Science in the future.
+
+- Computer Science High School Co-op - Summer (Markham, ON)
+  - Organized by IBM, help work directly on product and services for your clients, using cudding edge software that is integral in todays global business landscape
+- 2023 Applied Science Internship - Computer Vision and Robotics - Canada
+  - Organized by Amazon.com, help develop the algorithms and models that power the services at Amazon as an intern
+- Side projects
+- Coding problems for practice
