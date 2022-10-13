@@ -48,16 +48,14 @@
 - *Additional supplemental application required*
 
 **First Year Courses**
-- CSCA08- Introduction to Computer Science I
-  - Build and analyze simple algorithms
-- CSCA20- Introduction to Programming
-  - Basic programming techniques and tools that are widely applicable
-- CSCA48- Introduction to Computer Science II
-  - Software design, data structures, and basics of complexity analysis
-- CSCA67- Discrete Mathematics
-  - Discrete mathematics that is needed for computer and mathematical science
-- CSCB20- Introduction to Databases and Web Applications
-  - Fundamental tools and technologies that advance your programming skills
+
+| Course      | Description       
+| ------------- |:-------------:| 
+| CSCA08 - Introduction to Computer Science I     | Build and analyze simple algorithms | 
+| CSCA20- Introduction to Programming     | Basic programming techniques and tools that are widely applicable     |  
+| CSCA48- Introduction to Computer Science II | Software design, data structures, and basics of complexity analysis      |  
+| CSCA67- Discrete Mathematics | Discrete mathematics that is needed for computer and mathematical science      |  
+| CSCB20- Introduction to Databases and Web Applications | Fundamental tools and technologies that advance your programming skills     |  
 
 **Time Required to Complete Degree**
 - 5 years
