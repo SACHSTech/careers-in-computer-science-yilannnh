@@ -105,3 +105,29 @@ We are in growth mode and need to hire curious, productive, technically proficie
 - North York, ON
 - From $120,000 a year
 ---
+### Works Cited
+<https://www.monster.com/career-advice/article/software-engineer-skills>
+
+<https://hiring.monster.com/resources/job-descriptions/computer/senior-software-engineer/>
+
+<https://ca.topresume.com/career-advice/senior-software-engineer-job-description#:~:text=Senior%20Software%20Engineer%20will%20develop,new%20and%20support%20existing%20websites>
+
+<https://ca.topresume.com/career-advice/senior-software-engineer-job-description#:~:text=Senior%20Software%20Engineer%20will%20develop,new%20and%20support%20existing%20websites>
+
+<https://www.glassdoor.ca/Salaries/senior-software-engineer-salary-SRCH_KO0,24.htm>
+
+<https://future.utoronto.ca/undergraduate-programs/computer-science/>
+
+<https://www.utsc.utoronto.ca/cms/which-first-year-computer-science-courses-are-right-me>
+
+<https://www.google.com/search?q=comp+sci+internships&rlz=1C1CHBF_enCA997US997&oq=comp+sci+internship&aqs=chrome.0.0i512j69i57j0i512l4j0i457i512j0i512l2j0i390.6455j0j7&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwix0Pz9ztv6AhXKg2oFHW2pDxAQkd0GegQIChAB#fpstate=tldetail&htivrt=jobs&htiq=comp+sci+internships&htidocid=7RiOwcItyxYAAAAAAAAAAA%3D%3D>
+
+<https://www.google.com/search?q=comp+sci+internships&rlz=1C1CHBF_enCA997US997&oq=comp+sc&aqs=chrome.0.69i59j0i131i433i512j0i512l3j69i60l2j69i61.841j0j7&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwjBooWzhdz6AhVMj2oFHSvCBAgQkd0GegQIFxAB#fpstate=tldetail&htivrt=jobs&htiq=comp+sci+internships&htidocid=5E9kPWnWK5MAAAAAAAAAAA%3D%3D>
+
+<https://ca.indeed.com/jobs?q=Software+Engineer&l=&vjk=4b9957260be7372e>
+
+<https://ca.indeed.com/jobs?q=Software+Engineer&l=&vjk=c63952b01119cba7&advn=1625063752866332>
+
+<https://ca.indeed.com/jobs?q=senior+Software+Engineer&l=&vjk=f3aee10c0a63dfdd&advn=3239362611172035>
+
+---
