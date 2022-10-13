@@ -36,7 +36,7 @@
 ---
 ### 1.2 Standard Education
 **School:** [University of Toronto](https://www.utoronto.ca/)
-![University of Toronto](uoftlogo.png)
+![University of Toronto](uoftlogo.png) <img src="uoftlogo.png" alt="University of Toronto" width="200"/>
 
 **Program:** [Computer Science](https://future.utoronto.ca/undergraduate-programs/computer-science/)
 
